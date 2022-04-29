@@ -1,0 +1,23 @@
+using System;
+
+namespace aula_01
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // comentario de uma linha
+            /*
+             * comentario de 
+             * varias linha
+             */
+
+            //criando a variavel
+
+            string nome = "Hugo";
+            int idade = 30;
+            Console.WriteLine(nome);
+            Console.WriteLine(idade);
+
+        }
+    }
